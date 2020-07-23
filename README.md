@@ -23,3 +23,4 @@ Session outline:
 
 3. Pull code from GitHub
 * https://github.com/RaymondDoudlah/LUCID_PREP_NeuralNetworkTalk.git
+* _Note:_ This code is a Google Colab notebook. During the session I will walk you through uploading the code to your Google Drive, opening the code in Google Colab, and running the code.
