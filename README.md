@@ -15,7 +15,6 @@ Session outline:
 
 1. Watch the following videos:
 * https://www.youtube.com/watch?v=aircAruvnKk
-* https://www.youtube.com/watch?v=uXt8qF2Zzfo&t=1973s (Watch first 12 min)
 * https://www.youtube.com/watch?v=YRhxdVk_sIs
 
 2. Read these articles:
