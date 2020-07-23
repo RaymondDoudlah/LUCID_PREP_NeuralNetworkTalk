@@ -20,3 +20,6 @@ Session outline:
 2. Read these articles:
 * https://www.smartsheet.com/neural-network-applications
 * https://towardsdatascience.com/a-gentle-introduction-to-neural-networks-series-part-1-2b90b87795b
+
+3. Pull code from GitHub
+* https://github.com/RaymondDoudlah/LUCID_PREP_NeuralNetworkTalk.git
